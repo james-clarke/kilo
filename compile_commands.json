@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-std=c99",
+      "-o",
+      "kilo.o",
+      "kilo.c"
+    ],
+    "directory": "/Users/clarkie/Developer/c-dev/kilo",
+    "file": "/Users/clarkie/Developer/c-dev/kilo/kilo.c",
+    "output": "/Users/clarkie/Developer/c-dev/kilo/kilo.o"
+  }
+]
